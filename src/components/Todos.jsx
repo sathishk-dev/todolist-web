@@ -20,7 +20,7 @@ export default function Todos({ task, toggleComplete, delTask, taskUpdate, editI
                         id='edit-field'
                         value={editTodo}
                         onChange={(e) => setEditedTodo(e.target.value)}
-                        className='py-2 px-4 flex-1 focus:outline-none'
+                        className='py-2 px-4 flex-1 w-full focus:outline-none'
                     />
                 ) : (
                     <label
