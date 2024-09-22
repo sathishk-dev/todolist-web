@@ -1,22 +1,29 @@
-# Task Management System
+# Todo List Application
 
-A simple **React** task management app where users can add, edit, complete, and delete tasks. Tasks are stored in `localStorage` for persistence.
+![Todo List](https://via.placeholder.com/600x200?text=Your+Todo+List+App+Banner)
 
-## Features
+## 📋 Overview
 
-- **Add Tasks**: Enter tasks and add them to the list.
-- **Edit Tasks**: Modify tasks directly within the list.
-- **Mark as Complete**: Click a task to mark it as completed.
-- **Delete Tasks**: Remove tasks from the list.
-- **Persistent Data**: Uses `localStorage` to save tasks.
+Stay organized and boost your productivity with our **Todo List Application**! This simple yet effective app helps you manage your tasks efficiently, allowing you to add, edit, delete, and complete your todos seamlessly.
 
-## Demo
+## 🚀 Features
 
-Check the live app: [Task Management System](https://sk-todolist-web.netlify.app/)
+- **Add Tasks**: Quickly add tasks to your to-do list.
+- **Edit Tasks**: Modify existing tasks effortlessly.
+- **Complete Tasks**: Mark tasks as complete with a single click.
+- **Delete Tasks**: Remove tasks from your list as needed.
+- **Local Storage**: Your tasks are saved in the browser’s local storage, so you won’t lose them on refresh.
 
-## Usage
+## 🎨 Technologies Used
+
+- **React**: A JavaScript library for building user interfaces.
+- **CSS**: For styling the components.
+- **Local Storage**: For persistent data storage.
+
+## 🛠️ Installation
+
+To run the Todo List application locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/todolist-app.git
-   cd todolist-app
+   git clone https://github.com/yourusername/todo-list-app.git
