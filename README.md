@@ -40,13 +40,4 @@ Open your browser and go to [http://localhost:3000](http://localhost:3000) to se
 ## 📱 Demo
 Check out the live demo [here](https://sk-todolist-web.netlify.app/).
 
-## 💡 Tips
-- Make sure to keep your tasks concise for better organization!
-- Use the app regularly to stay on top of your responsibilities.
-
-## 🎉 Enjoy using your Todo List Application! 🎉
-### Notes:
-- Replace `https://github.com/yourusername/todo-list-app.git` with your actual repository link.
-- You can replace the placeholder image link with an actual image related to your app for the banner.
-- Feel free to customize any sections as per your preferences!
 
