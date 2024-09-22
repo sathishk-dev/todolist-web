@@ -6,10 +6,10 @@ Stay organized and boost your productivity with our **Todo List Application**! T
 
 ## 🚀 Features
 
-- **Add Tasks**: Quickly add tasks to your to-do list.
-- **Edit Tasks**: Modify existing tasks effortlessly.
-- **Complete Tasks**: Mark tasks as complete with a single click.
-- **Delete Tasks**: Remove tasks from your list as needed.
+- **Add Tasks**: Type your task in the input field and click "Add Task".
+- **Edit Tasks**: Click the pencil icon next to a task to edit it. Make your changes and click the checkmark to save.
+- **Complete Tasks**: Click on the task label to mark it as complete.
+- **Delete Tasks**: Click the trash icon to remove a task from your list.
 - **Local Storage**: Your tasks are saved in the browser’s local storage, so you won’t lose them on refresh.
 
 ## 🎨 Technologies Used
@@ -33,26 +33,12 @@ To run the Todo List application locally, follow these steps:
    npm install
 4. Start the development server:
    ```bash
-   npm start
+   npm run dev
 
 Open your browser and go to [http://localhost:3000](http://localhost:3000) to see the app in action!
 
 ## 📱 Demo
 Check out the live demo [here](https://sk-todolist-web.netlify.app/).
-
-## 📌 Usage
-
-### Adding a Task
-Type your task in the input field and click "Add Task".
-
-### Editing a Task
-Click the pencil icon next to a task to edit it. Make your changes and click the checkmark to save.
-
-### Completing a Task
-Click on the task label to mark it as complete.
-
-### Deleting a Task
-Click the trash icon to remove a task from your list.
 
 ## 💡 Tips
 - Make sure to keep your tasks concise for better organization!
