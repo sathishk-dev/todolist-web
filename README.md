@@ -24,10 +24,10 @@ To run the Todo List application locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/todo-list-app.git
+   git clone https://github.com/sathishk-dev/todolist-web.git
 2. Navigate to the project directory:
    ```bash
-   cd todo-list-app
+   cd todolist-web
 3. Install the required dependencies:
    ```bash
    npm install
