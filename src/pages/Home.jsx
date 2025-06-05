@@ -56,7 +56,11 @@ export default function Home() {
     setEditedTodo(taskList.find((todo) => todo.id == id).taskName)
   }
   const changeTask = (id) => {
-    taskList.find((todo) => todo.id == id).taskName = editedTodo;
+    setTaskList(prev =>
+      prev.map(todo =>
+        todo.id === id ? { ...todo, taskName: editedTodo } : todo
+      )
+    );
     setEditIndex(null);
   }
 
@@ -88,7 +92,7 @@ export default function Home() {
         </div>
       </div>
 
-      
+
     </div>
   )
 }
